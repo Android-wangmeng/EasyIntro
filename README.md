@@ -4,10 +4,13 @@
 ### 演示
 ![](screenshots/easy_intro.gif)
 
+
+### [Demo下载](https://github.com/Android-wangmeng/EasyIntro/releases/download/1.0.1/app-release.apk)
+
 ### 添加如下配置将EasyDialog引入到你的项目当中：
 ```groovv
 dependencies {
-    implementation 'com.intro.wm:easyintro:1.0.0'
+    implementation 'com.intro.wm:easyintro:1.0.1'
 }
 ```
 
@@ -105,29 +108,41 @@ Name | Preview
 
 ### 滑动动画
 
-|TransformerType.DEFAULT|TransformerType.ACCORDION|TransformerType.BACKGROUND_TO_FOREGROUND|
-|:---:|:---:|:---:|
-|![](screenshots/transformer_default.gif)|![](screenshots/transformer_accordion.gif)|![](screenshots/transformer_background_to_reground.gif)|
-
-|TransformerType.CUBE_IN|TransformerType.CUBE_OUT|TransformerType.DEPTH_PAGE|
-|:---:|:---:|:---:|
-|![](screenshots/transformer_cube_in.gif)|![](screenshots/transformer_cube_out.gif)|![](screenshots/transformer_depth_page.gif)|
-
-|TransformerType.DRAW_FROM_BACK|TransformerType.FLIP_HORIZONTAL|TransformerType.FLIP_VERTICAL|
-|:---:|:---:|:---:|
-|![](screenshots/transformer_draw_from_back.gif)|![](screenshots/transformer_flip_horizontal.gif)|![](screenshots/transformer_flip_vertical.gif)|
-
-|TransformerType.FOREGROUND_TO_BACKGROUND|TransformerType.ROTATE_DOWN|TransformerType.ROTATE_UP|
-|:---:|:---:|:---:|
-|![](screenshots/transformer_foreground_to_background.gif)|![](screenshots/transformer_rotate_down.gif)|![](screenshots/transformer_rotate_up.gif)|
-
-|TransformerType.STACK|TransformerType.TABLET|TransformerType.ZOOM_IN|
-|:---:|:---:|:---:|
-|![](screenshots/transformer_stack.gif)|![](screenshots/transformer_tablet.gif)|![](screenshots/transformer_zoom_in.gif)|
-
-|TransformerType.ZOOM_OUT|TransformerType.ZOOM_OUT_SLIDE|
+|TransformerType.DEFAULT|TransformerType.ACCORDION|
 |:---:|:---:|
-|![](screenshots/transformer_zoom_out.gif)|![](screenshots/transformer_zoom_out_slide.gif)|
+|![](screenshots/transformer_default.gif)|![](screenshots/transformer_accordion.gif)|
+
+|TransformerType.BACKGROUND_TO_FOREGROUND|TransformerType.DEPTH_PAGE|
+|:---:|:---:|
+|![](screenshots/transformer_background_to_reground.gif)|![](screenshots/transformer_depth_page.gif)|
+
+|TransformerType.CUBE_IN|TransformerType.CUBE_OUT|
+|:---:|:---:|
+|![](screenshots/transformer_cube_in.gif)|![](screenshots/transformer_cube_out.gif)|
+
+|TransformerType.DRAW_FROM_BACK|TransformerType.FLIP_HORIZONTAL|
+|:---:|:---:|
+|![](screenshots/transformer_draw_from_back.gif)|![](screenshots/transformer_flip_horizontal.gif)|
+
+|TransformerType.FLIP_VERTICAL|TransformerType.ROTATE_UP|
+|:---:|:---:|
+|![](screenshots/transformer_flip_vertical.gif)|![](screenshots/transformer_rotate_up.gif)|
+
+|TransformerType.FOREGROUND_TO_BACKGROUND|TransformerType.ROTATE_DOWN|
+|:---:|:---:|
+|![](screenshots/transformer_foreground_to_background.gif)|![](screenshots/transformer_rotate_down.gif)|
+
+|TransformerType.ZOOM_IN|TransformerType.ZOOM_OUT|
+|:---:|:---:|
+|![](screenshots/transformer_zoom_in.gif)|![](screenshots/transformer_zoom_out.gif)
+
+|TransformerType.STACK|TransformerType.TABLET|
+|:---:|:---:|
+|![](screenshots/transformer_stack.gif)|![](screenshots/transformer_tablet.gif)|
+
+|TransformerType.ZOOM_OUT_SLIDE|
+|:---:|
+|![](screenshots/transformer_zoom_out_slide.gif)|
 
 ### License
 ```
