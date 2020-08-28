@@ -134,15 +134,15 @@ Name | Preview
 
 |TransformerType.ZOOM_IN|TransformerType.ZOOM_OUT|
 |:---:|:---:|
-|![](screenshots/transformer_zoom_in.gif)|![](screenshots/transformer_zoom_out.gif)
+|![](screenshots/transformer_rotate_zoom_in.gif)|![](screenshots/transformer_rotate_zoom_out.gif)
 
 |TransformerType.STACK|TransformerType.TABLET|
 |:---:|:---:|
-|![](screenshots/transformer_stack.gif)|![](screenshots/transformer_tablet.gif)|
+|![](screenshots/transformer_rotate_stack.gif)|![](screenshots/transformer_rotate_tablet.gif)|
 
 |TransformerType.ZOOM_OUT_SLIDE|
 |:---:|
-|![](screenshots/transformer_zoom_out_slide.gif)|
+|![](screenshots/transformer_rotate_zoom_out_slide.gif)|
 
 ### License
 ```
