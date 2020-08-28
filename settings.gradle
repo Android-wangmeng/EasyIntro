@@ -1,0 +1,3 @@
+include ':intro'
+include ':app'
+rootProject.name = "EasyIntro"
